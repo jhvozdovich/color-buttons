@@ -1,4 +1,4 @@
-# _Button Colors Exercise_
+# _Button Colors and DOM Manipulation Exercise_
 
 #### _JavaScript Exercise creating functions to toggle buttons March 24, 2020_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_This exercise uses the jQuery library, Bootstrap, HTML, CSS, and Javascript to create uses jQuery commands to change backrounds of interactive buttons._
+_This exercise uses the jQuery library, Bootstrap, HTML, CSS, and Javascript to create uses jQuery commands to change backrounds of interactive buttons-this was updated to create a conversation log, but the color functions can be accessed in previous versions._
 
 ## Setup/Installation Requirements
 
