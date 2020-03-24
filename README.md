@@ -14,7 +14,7 @@ _This exercise uses the jQuery library, Bootstrap, HTML, CSS, and Javascript to 
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at https://jhvozdovich.github.io/color-buttons/
+* Alternatively, open the webpage at https://macj314.github.io/color-buttons/
 
 * or https://macj314.github.io/color-buttons
 
